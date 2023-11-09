@@ -2,13 +2,13 @@ title: Economic Growth Study Guide
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-baseurl: "/StudyGuide" # the subpath of your site, e.g. /blog
+baseurl: "/StudyGuide4ed" # the subpath of your site, e.g. /blog
 url: "https://growthecon.com" 
 #url: https://just-the-docs.github.io
 
 aux_links:
   "Study Guide on GitHub":
-    - "https://github.com/dvollrath/StudyGuide"
+    - "https://github.com/dvollrath/StudyGuide4ed"
 
 back_to_top: true
 back_to_top_text: "Back to top"
