@@ -1,8 +1,25 @@
-title: Just the Docs Template
+title: Economic Growth Study Guide
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+baseurl: "/StudyGuide" # the subpath of your site, e.g. /blog
+url: "https://growthecon.com" 
+#url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Study Guide on GitHub":
+    - "https://github.com/dvollrath/StudyGuide"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2020 Dietrich Vollrath. Distributed by an <a href=\"https://github.com/dvollrath/StudyGuide/blob/master/LICENSE.txt\">MIT license.</a>"
+
+callouts:
+  highlight:
+    title: Highlight
+    color: green
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
